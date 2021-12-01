@@ -9,6 +9,8 @@ npm add stripe
 
 npm add next-auth
 
+npm add faunadb
+
 
 
 
